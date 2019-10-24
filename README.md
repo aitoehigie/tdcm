@@ -9,8 +9,8 @@ Given the image (hc510.png) create a script that will
 3. Find Warranty time value in the specification  in the hc510.png image
 4. OCR the Warranty value using Tesseract
 5. On the output return:
-  1. MTBF in months
-  2. MTBF in years
-  3. Warranty in months
-  4. Warranty in days
-  5. Number of days till MTBF after Warranty finish
+  * MTBF in months
+  * MTBF in years
+  * Warranty in months
+  * Warranty in days
+  * Number of days till MTBF after Warranty finish
