@@ -30,5 +30,9 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 ## Support
 You can reach out to the author at <aitoehigie@gmail.com> or [@pystar on twitter](https://twitter.com/pystar)
 
+
+## Roadmap
+Add more tests for robustness. 
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
