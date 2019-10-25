@@ -10,7 +10,13 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install all req
 virtualenv venv #create a virtual environment
 source venv/bin/activate #activate the virtual environment 
 pip install -r requirements.txt #install all requirements to run the script.
+
+On Linux:
+sudo apt update
+sudo apt install tesseract-ocr
+sudo apt install libtesseract-dev
 ```
+
 
 ## Usage
 
