@@ -23,6 +23,11 @@ sudo apt install libtesseract-dev
 ```
 python imager.py
 ```
+## Tests
+Run pytest within the main directory to execute the project tests
+```
+pytest
+```
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
