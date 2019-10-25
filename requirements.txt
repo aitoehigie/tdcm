@@ -1,0 +1,9 @@
+appdirs==1.4.3
+attrs==19.3.0
+black==19.3b0
+Click==7.0
+numpy==1.17.3
+opencv-python==4.1.1.26
+Pillow==6.2.1
+pytesseract==0.3.0
+toml==0.10.0
